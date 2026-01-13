@@ -1,4 +1,4 @@
-Hello, we are Micro 47, currently consisting of @mathkimchi and @MrPoWasTaken.
+Hello, we are Micro 47, currently consisting of @mathkimchi and @mrpo12.
 
 We do game jams for fun.
 
